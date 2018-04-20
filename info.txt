@@ -1,1 +1,3 @@
-test message
+source venv/bin/activate
+export FLASK_APP=start_script.py
+flask run
